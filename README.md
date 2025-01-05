@@ -46,4 +46,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Acknowledgments
 Special thanks to the developers of PyRTOS for providing a real-time operating system framework in Python.
 
-For more information, visit the Repository.
+For more information, visit the [Repository](https://github.com/Rybec/pyRTOS).
